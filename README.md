@@ -27,7 +27,6 @@ The primary objectives of this project include:
 - Analyzing observations related to patient health.
 - Profiling patients and practitioners based on demographic information.
 
-  .
 #### 📊 Project Screenshots
 Included in the repository are screenshots of the Power BI report, showcasing various visualizations and insights derived from the analyzed data.
 
