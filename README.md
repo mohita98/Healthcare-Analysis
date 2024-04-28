@@ -1,4 +1,4 @@
-## Healthcare Analysis Project on GitHub
+## Healthcare Analysis
 
 #### 🏥 Overview
 This GitHub repository contains a comprehensive healthcare analysis project conducted using Power BI and Microsoft Fabric. The project focuses on analyzing various aspects of patient care, insurance claims, diagnostics, immunizations, observations, and practitioner information.
