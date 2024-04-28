@@ -27,6 +27,10 @@ The primary objectives of this project include:
 - Analyzing observations related to patient health.
 - Profiling patients and practitioners based on demographic information.
 
+  .
+#### 📊 Project Screenshots
+Included in the repository are screenshots of the Power BI report, showcasing various visualizations and insights derived from the analyzed data.
+
 ![Screenshot 2024-04-28 151536](https://github.com/mohita98/Healthcare-Analysis/assets/77202377/0841833a-8179-4518-9926-086200256545)
 ![Screenshot 2024-04-28 151620](https://github.com/mohita98/Healthcare-Analysis/assets/77202377/46c8d321-b9c5-4539-9f40-dcef7490db5c)
 ![Screenshot 2024-04-28 151707](https://github.com/mohita98/Healthcare-Analysis/assets/77202377/d3110f13-2c4e-443d-af57-ad0de25051a9)
